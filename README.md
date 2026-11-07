@@ -15,6 +15,9 @@ frame instead of a description of it.
 | Game | `zh-Hant`, Insert menu: frame generation 3x, frame pacing on, resolution Auto, upscaling Catmull-Rom, sharpness 60 |
 | Where | outside Hyrule Castle, on the rock face, with the sun on the scene |
 
+**Outdoors only.** Indoors the picture is normal; the blow-out happens outside, with the sun on the scene, and it
+holds for as long as the camera stays at that angle. It is not a one-frame flash.
+
 ## What the frames are
 
 - `renderer_*.png` — 1280×720, written by Hookshot itself (`RX_VK_SHOTS`), i.e. the frame the renderer produced.
